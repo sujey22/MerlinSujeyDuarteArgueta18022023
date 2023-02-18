@@ -7,6 +7,6 @@ namespace MerlinSujeyDuarteArgueta18022023.Negocio
 {
     public class ClsPalabras
     {
-        
+        public String? palabras {get; set;}
     }
 }
