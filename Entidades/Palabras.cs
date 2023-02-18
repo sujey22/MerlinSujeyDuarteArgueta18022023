@@ -7,6 +7,6 @@ namespace MerlinSujeyDuarteArgueta18022023.Entidades
 {
     public class Palabras
     {
-        
+        public String? palabras {get; set;}
     }
 }
